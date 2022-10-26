@@ -1,3 +1,4 @@
 streng
 seaborn
 openseespy
+sympy
